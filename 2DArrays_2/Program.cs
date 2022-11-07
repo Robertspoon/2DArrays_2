@@ -10,6 +10,13 @@ namespace _2DArrays_2
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("2D arrays");
+
+            int[,] map = new int[20, 10];
+            
+
+
+            Console.ReadKey(true);
         }
     }
 }
